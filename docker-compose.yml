@@ -16,8 +16,8 @@ services:
     ports:
       - "27015:27015"
       - "27016:27016"
-    #  - "27015:27015/udp"
-    #  - "27016:27016/udp"
+      - "27015:27015/udp"
+      - "27016:27016/udp"
     #volumes:
     #  - "/opt/ets2:/root/.local/share/Euro Truck Simulator 2"  # Only needed when using custom server_packages.sii and server_packages.dat
     environment:
@@ -42,8 +42,8 @@ services:
     ports:
       - "27015:27015"
       - "27016:27016"
-    #  - "27015:27015/udp"
-    #  - "27016:27016/udp"
+      - "27015:27015/udp"
+      - "27016:27016/udp"
     #volumes:
     #  - "/opt/ats:/root/.local/share/American Truck Simulator" # Only needed when using custom server_packages.sii and server_packages.dat
     environment:
