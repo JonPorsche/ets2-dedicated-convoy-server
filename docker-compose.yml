@@ -13,9 +13,9 @@ services:
     network_mode: host # important to make game appear in server list
     # if you want to join via direct join token (displayed in logs on startup) you can use port mapping
     # the game will not appear in server list because the server can't determine the external IP
-    #ports:
-    #  - "27015:27015"
-    #  - "27016:27016"
+    ports:
+      - "27015:27015"
+      - "27016:27016"
     #  - "27015:27015/udp"
     #  - "27016:27016/udp"
     #volumes:
@@ -39,9 +39,9 @@ services:
     network_mode: host # important to make game appear in server list
     # if you want to join via direct join token (displayed in logs on startup) you can use port mapping
     # the game will not appear in server list because the server can't determine the external IP
-    #ports:
-    #  - "27015:27015"
-    #  - "27016:27016"
+    ports:
+      - "27015:27015"
+      - "27016:27016"
     #  - "27015:27015/udp"
     #  - "27016:27016/udp"
     #volumes:
