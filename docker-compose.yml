@@ -26,8 +26,8 @@ services:
     environment:
       - "ETS_SERVER_UPDATE_ON_START=true"
       - "ETS_SERVER_NAME=USA, Mexico and Canada (winter)"
-      - "ETS_SERVER_DESCRIPTION=This dedicated server is for you, that likes to drive through USA, Mexico and Canada. Enjoy your trip!"
-      - "ETS_SERVER_WELCOME_MESSAGE=Welcome to my server! Enjoy your trip!"
+      - "ETS_SERVER_DESCRIPTION=Dedicated server to drive through USA, Mexico and Canada."
+      - "ETS_SERVER_WELCOME_MESSAGE=Welcome to my server!"
       - "ETS_SERVER_PASSWORD="
       - "ETS_SERVER_MAX_PLAYERS=8"
       - "ETS_SERVER_PORT=27015"
