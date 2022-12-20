@@ -59,5 +59,5 @@ services:
       - "ETS_SERVER_MAX_PLAYERS=8"
       - "ETS_SERVER_PORT=27015"
       - "ETS_SERVER_QUERY_PORT=27016"
-      - "ETS_SERVER_MODS_OPTIONING=true"
+      - "ETS_SERVER_MODS_OPTIONING=false"
       # more variables...
