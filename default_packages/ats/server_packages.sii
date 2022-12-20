@@ -122,7 +122,7 @@ server_mod_detail : _nameless.178.5255.6290 {
  checksum: 3346633958065532511
  mod_id: 1833428947
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5ab0 {
@@ -131,7 +131,7 @@ server_mod_detail : _nameless.178.5255.5ab0 {
  checksum: 15081028565172064481
  mod_id: 1832939055
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.64d0 {
@@ -140,7 +140,7 @@ server_mod_detail : _nameless.178.5255.64d0 {
  checksum: 10333334304501755518
  mod_id: 218269484266134412
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5d50 {
@@ -149,7 +149,7 @@ server_mod_detail : _nameless.178.5255.5d50 {
  checksum: 17336616609767758747
  mod_id: 1815959194
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.62f0 {
@@ -158,7 +158,7 @@ server_mod_detail : _nameless.178.5255.62f0 {
  checksum: 17493805664168610838
  mod_id: 199010511134944208
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.65f0 {
@@ -167,7 +167,7 @@ server_mod_detail : _nameless.178.5255.65f0 {
  checksum: 5581885552924735962
  mod_id: 2275302391
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.55d0 {
@@ -185,7 +185,7 @@ server_mod_detail : _nameless.178.5255.6350 {
  checksum: 15582728623808024802
  mod_id: 2012665259
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6470 {
@@ -194,7 +194,7 @@ server_mod_detail : _nameless.178.5255.6470 {
  checksum: 218124847147688395
  mod_id: 15225505274119654199
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.63b0 {
@@ -221,7 +221,7 @@ server_mod_detail : _nameless.178.5255.5b10 {
  checksum: 5882603985244010903
  mod_id: 12964257200419438774
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.57b0 {
@@ -230,7 +230,7 @@ server_mod_detail : _nameless.178.5255.57b0 {
  checksum: 11437394966575818521
  mod_id: 2566002654
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5e70 {
@@ -239,7 +239,7 @@ server_mod_detail : _nameless.178.5255.5e70 {
  checksum: 17082750353318794862
  mod_id: 2845875966
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6650 {
@@ -248,7 +248,7 @@ server_mod_detail : _nameless.178.5255.6650 {
  checksum: 6586461694789814501
  mod_id: 652225351
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.54b0 {
@@ -284,7 +284,7 @@ server_mod_detail : _nameless.178.5255.5570 {
  checksum: 858181622198383925
  mod_id: 6662018469157850335
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.58d0 {
@@ -293,7 +293,7 @@ server_mod_detail : _nameless.178.5255.58d0 {
  checksum: 1800992558733376954
  mod_id: 3709961478753440504
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5ed0 {
@@ -302,7 +302,7 @@ server_mod_detail : _nameless.178.5255.5ed0 {
  checksum: 1071371136142463320
  mod_id: 8019545811493888209
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6710 {
@@ -311,7 +311,7 @@ server_mod_detail : _nameless.178.5255.6710 {
  checksum: 5344224325387351209
  mod_id: 17559345238750577477
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5630 {
@@ -320,7 +320,7 @@ server_mod_detail : _nameless.178.5255.5630 {
  checksum: 1151505390700944933
  mod_id: 5813521600159187748
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6050 {
@@ -329,7 +329,7 @@ server_mod_detail : _nameless.178.5255.6050 {
  checksum: 12352820784701300706
  mod_id: 15597776633641841006
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5cf0 {
@@ -338,7 +338,7 @@ server_mod_detail : _nameless.178.5255.5cf0 {
  checksum: 7763603996283194371
  mod_id: 4782134706009740207
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6170 {
@@ -347,7 +347,7 @@ server_mod_detail : _nameless.178.5255.6170 {
  checksum: 12714423320135332191
  mod_id: 532056655524444615
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6590 {
@@ -356,7 +356,7 @@ server_mod_detail : _nameless.178.5255.6590 {
  checksum: 2293377039591645999
  mod_id: 2339049888
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6410 {
@@ -365,7 +365,7 @@ server_mod_detail : _nameless.178.5255.6410 {
  checksum: 5997029200844594172
  mod_id: 2427022698
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5870 {
@@ -374,7 +374,7 @@ server_mod_detail : _nameless.178.5255.5870 {
  checksum: 4059271849209013052
  mod_id: 2343696370
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.5930 {
@@ -410,7 +410,7 @@ server_mod_detail : _nameless.178.5255.5990 {
  checksum: 15928112264065781711
  mod_id: 9745600767623299355
  workshop_mod: false
- optional_mod: false
+ optional_mod: true
 }
 
 }
