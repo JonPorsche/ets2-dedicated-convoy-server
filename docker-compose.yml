@@ -26,8 +26,8 @@ services:
     environment:
       - "ETS_SERVER_UPDATE_ON_START=true"
       - "ETS_SERVER_NAME=USA, Mexico and Canada (winter)"
-      - "ETS_SERVER_DESCRIPTION=My server description"
-      - "ETS_SERVER_WELCOME_MESSAGE=Welcome to my server!"
+      - "ETS_SERVER_DESCRIPTION=Hi truckers, this dedicated server is for you, that like to drive not only through the USA, but also Canada and Mexico. And as it is Christmastime, nothing more suitable to use a winter mod. Enjoy it!"
+      - "ETS_SERVER_WELCOME_MESSAGE=Welcome to my server! Enjoy your trip!"
       - "ETS_SERVER_PASSWORD="
       - "ETS_SERVER_MAX_PLAYERS=8"
       - "ETS_SERVER_PORT=27015"
