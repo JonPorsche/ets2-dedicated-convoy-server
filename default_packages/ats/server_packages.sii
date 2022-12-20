@@ -176,7 +176,7 @@ server_mod_detail : _nameless.178.5255.55d0 {
  checksum: 3006941571180188695
  mod_id: 1544196709
  workshop_mod: true
- optional_mod: false
+ optional_mod: true
 }
 
 server_mod_detail : _nameless.178.5255.6350 {

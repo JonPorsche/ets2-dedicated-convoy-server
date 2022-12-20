@@ -48,7 +48,8 @@ services:
     #  - "27016:27016/udp"
     volumes:
       - "/opt/ats-server/game-data:/app" # server data
-      - "/opt/ats-server/save-data:/root/.local/share/American Truck Simulator" # Only needed when using custom server_packages.sii and server_packages.dat
+      - "/opt/ats-server/save-data:/root/.local/share/American Truck Simulator" # Only needed when using custom server_packages.sii and server_packages.
+      - "/home/steam/ats-mods:/root/.local/share/American Truck Simulator/mod" # Bind mount to the mods folder
     environment:
       - "ETS_SERVER_UPDATE_ON_START=true"
       - "ETS_SERVER_NAME=USA, Mexico and Canada (winter)"
